@@ -2,7 +2,7 @@
 
 In this project, I practiced file handling in Python. I used the builtin `with`, `open`, and `read` functions with the `json` module to read and write files and serialize and deserialize objects with JSON.
 
-## `NOTE: It is important  to make all files EXECUTABLE`
+## `NOTE: It is important to make all files EXECUTABLE`
 
 ## Function Prototypes :floppy_disk:
 
